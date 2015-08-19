@@ -1,7 +1,7 @@
 # [Visit Our Site](http://charbot.github.io/Marketing/)
 
 
-![](http://i.imgur.com/weB3a5Xm.jpg)
+![](http://i.imgur.com/weB3a5Xm.jpg)  ![](http://i.imgur.com/VNXte1Um.jpg)
 
 ## Why?
 
