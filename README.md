@@ -1,16 +1,18 @@
 # [Visit Our Site](http://charbot.github.io/Marketing/)
 
 
+![](http://i.imgur.com/weB3a5Xm.jpg)
+
 ## Why?
 
 In 2014, I bought a new house in Atlanta. This required me to bite the bullet and sign on with one of the huge (read monster) Internet Service Providers (ISP). Similar to many horror stories, my connection was often slow, un-usable, and sometimes completely disconnected. It was not uncommon to see download speeds 1/10th of the speed I was paying for. 
 
-![](http://imgur.com/kVqf0R7.png)
-![](http://imgur.com/AWYsrEZ.png)
+![](http://imgur.com/kVqf0R7m.png)
+![](http://imgur.com/AWYsrEZm.png)
 
 The problem was that I worked from home! After many hours on the phone, multiple service appointments, and ~2 months the problem was fixed.
 
-![](http://imgur.com/fCcfiht.png)
+![](http://imgur.com/fCcfihtm.png)
 
 But the sour taste in my mouth stuck around. And it was only made worse by the [Net Neutrality](http://www.savetheinternet.com/how-save-internet) and questionably enforceable [FCC Ruling](https://www.fcc.gov/document/fcc-adopts-strong-sustainable-rules-protect-open-internet).
 
@@ -58,8 +60,8 @@ Performs the same checks as the \[Basic\] model AND monitors bandwidth speeds. T
 
 * Tracks Connection Outages
 * Tracks Connection Latency
-* Tracks Laboratory Bandwidth Speeds (read the **What?** section for more details).
-* Tracks Real World Bandwidth Speeds (read the **What?** section for more details).
+* Tracks Laboratory Bandwidth Speeds (read the **What?** section for more details)
+* Tracks Real World Bandwidth Speeds (read the **What?** section for more details)
 
 
 ***
