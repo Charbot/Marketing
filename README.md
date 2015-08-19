@@ -3,7 +3,7 @@
 
 ![](http://i.imgur.com/weB3a5Xm.jpg)  ![](http://i.imgur.com/VNXte1Um.jpg)
 
-## Why?
+## Why Charbot?
 
 In 2014, I bought a new house in Atlanta. This required me to bite the bullet and sign on with one of the huge (read monster) Internet Service Providers (ISP). Similar to many horror stories, my connection was often slow, un-usable, and sometimes completely disconnected. It was not uncommon to see download speeds 1/10th of the speed I was paying for. 
 
@@ -16,7 +16,7 @@ The problem was that I worked from home! After many hours on the phone, multiple
 
 But the sour taste in my mouth stuck around. And it was only made worse by the [Net Neutrality](http://www.savetheinternet.com/how-save-internet) and questionably enforceable [FCC Ruling](https://www.fcc.gov/document/fcc-adopts-strong-sustainable-rules-protect-open-internet).
 
-## What?
+## What is Charbot?
 
 You now have the ability to monitor your internet service. We monitor
 
